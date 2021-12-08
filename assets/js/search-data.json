@@ -2,151 +2,151 @@
     "doc": "About",
     "title": "About",
     "content": " ",
-    "url": "http://localhost:4000/ECE5260/about/",
+    "url": "https://nikhil-ravi.github.io/ECE5260/about/",
     "relUrl": "/about/"
   },"1": {
     "doc": "About",
     "title": "Table of contents",
     "content": ". | Overview | Requirements | Study Material | Evaluation | . ",
-    "url": "http://localhost:4000/ECE5260/about/#table-of-contents",
+    "url": "https://nikhil-ravi.github.io/ECE5260/about/#table-of-contents",
     "relUrl": "/about/#table-of-contents"
   },"2": {
     "doc": "About",
     "title": "Overview",
     "content": "Complex networks are often the source of high-dimensional data. The goal of this course is to introduce data structural and computational models that are indexed by the irregular support of a graph. The graph represents the network that couples the dynamics of many agents, or it can be a more abstract Bayesian graphical model that explains how observations are conditionally dependent. The interest in these models spans many fields. Engineering is concerned with the design of complex networked infrastructures (the Internet, electric, gas, water, and transportation networks) and in their monitoring and optimal operations. Beyond engineering, network dynamical system models are used in social science, economics, bioinformatics, statistical physics, and machine learning, which can leverage all such models to process the data. The course goal is to introduced formal mathematical models that allow to capture emergent behavior and process the observations that come from these phenomena to predict the trends observed. The course will start from introducing basic concepts in graph theory followed by an introduction to random graphs models. This part will be followed by network dynamical models. Bayesian graphical models will be briefly covered as a more general statistical abstraction of the interactions between multivariate processes. The course will then introduce the students to the emerging field of graph signal processing, a theory that generalizes digital and image processing to graph signals. ",
-    "url": "http://localhost:4000/ECE5260/about/#overview",
+    "url": "https://nikhil-ravi.github.io/ECE5260/about/#overview",
     "relUrl": "/about/#overview"
   },"3": {
     "doc": "About",
     "title": "Requirements",
     "content": "The main background requirements are linear algebra and knowledge of probability theory and Markov Chains. The assignments will consist of analytical problems and the design of software for numerical simulations and data analysis. ",
-    "url": "http://localhost:4000/ECE5260/about/#requirements",
+    "url": "https://nikhil-ravi.github.io/ECE5260/about/#requirements",
     "relUrl": "/about/#requirements"
   },"4": {
     "doc": "About",
     "title": "Study Material",
     "content": "The course will rely in part on the following book for models and supplementary reference material (notes, tutorials) provided by the instructor during the course: . | Barrat, Alain, Marc Barthelemy, and Alessandro Vespignani. Dynamical processes on complex networks. Cambridge university press, 2008. | Notes and tutorials from the instructor. | . ",
-    "url": "http://localhost:4000/ECE5260/about/#study-material",
+    "url": "https://nikhil-ravi.github.io/ECE5260/about/#study-material",
     "relUrl": "/about/#study-material"
   },"5": {
     "doc": "About",
     "title": "Evaluation",
     "content": "The course evaluation will be based on quizzes and homework which will include numerical simulations and processing of real and synthetic data. ",
-    "url": "http://localhost:4000/ECE5260/about/#evaluation",
+    "url": "https://nikhil-ravi.github.io/ECE5260/about/#evaluation",
     "relUrl": "/about/#evaluation"
   },"6": {
     "doc": "Announcements",
     "title": "Announcements",
     "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
-    "url": "http://localhost:4000/ECE5260/announcements/",
+    "url": "https://nikhil-ravi.github.io/ECE5260/announcements/",
     "relUrl": "/announcements/"
   },"7": {
     "doc": "Announcements",
     "title": "Week 1 Announcement",
     "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
-    "url": "http://localhost:4000/ECE5260/announcements/",
+    "url": "https://nikhil-ravi.github.io/ECE5260/announcements/",
     "relUrl": "/announcements/"
   },"8": {
     "doc": "Announcements",
     "title": "Week 0 Announcement",
     "content": "Apr 1 &middot; 0 min read Hello world! . ",
-    "url": "http://localhost:4000/ECE5260/announcements/",
+    "url": "https://nikhil-ravi.github.io/ECE5260/announcements/",
     "relUrl": "/announcements/"
   },"9": {
     "doc": "Modules",
     "title": "Modules",
     "content": " ",
-    "url": "http://localhost:4000/ECE5260/calendar/",
+    "url": "https://nikhil-ravi.github.io/ECE5260/calendar/",
     "relUrl": "/calendar/"
   },"10": {
     "doc": "Modules",
     "title": "Introduction to Java",
     "content": "Sep 28 Java &amp; Git 1.1 Sep 29 SectionIntro to Java Solution Sep 30 Variables &amp; Objects 1.2, 2.1 Oct 1 Lab Intro to Java Oct 2 Tracing, IntLists, &amp; Recursion 2.1 HW 1 due ",
-    "url": "http://localhost:4000/ECE5260/calendar/#introduction-to-java",
+    "url": "https://nikhil-ravi.github.io/ECE5260/calendar/#introduction-to-java",
     "relUrl": "/calendar/#introduction-to-java"
   },"11": {
     "doc": "Modules",
     "title": "Basic Data Structures",
     "content": "Oct 5 Linked Lists &amp; Encapsulation 3.1, 2.2, 2.3 Oct 6 SectionLinked Lists Solution Oct 7 Resizing Arrays 2.4, 2.5 Oct 8 Lab Resizing Arrays Oct 9 Runtime Analysis 8.1, 8.2, 8.3, 8.4 HW 2 due ",
-    "url": "http://localhost:4000/ECE5260/calendar/#basic-data-structures",
+    "url": "https://nikhil-ravi.github.io/ECE5260/calendar/#basic-data-structures",
     "relUrl": "/calendar/#basic-data-structures"
   },"12": {
     "doc": "ECE 5260",
     "title": "Graph-Based Data Science for Networked Systems",
     "content": "Cornell Tech, Spring 2022 . Instructor: Anna Scaglione . Time: Mon &amp; Wed 2:45 pm - 4:00 pm . Location: Zoom. See Canvas for all Zoom lecture/section information (e.g. meeting links and authentication details). ",
-    "url": "http://localhost:4000/ECE5260/#graph-based-data-science-for-networked-systems",
+    "url": "https://nikhil-ravi.github.io/ECE5260/#graph-based-data-science-for-networked-systems",
     "relUrl": "/#graph-based-data-science-for-networked-systems"
   },"13": {
     "doc": "ECE 5260",
     "title": "Week 1 Announcement",
     "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . Announcements . This website is built using Kevin Lin’s Just the Class Jekyll template. ",
-    "url": "http://localhost:4000/ECE5260/",
+    "url": "https://nikhil-ravi.github.io/ECE5260/",
     "relUrl": "/"
   },"14": {
     "doc": "ECE 5260",
     "title": "ECE 5260",
     "content": " ",
-    "url": "http://localhost:4000/ECE5260/",
+    "url": "https://nikhil-ravi.github.io/ECE5260/",
     "relUrl": "/"
   },"15": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
     "content": ". | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
-    "url": "http://localhost:4000/ECE5260/schedule/#weekly-schedule",
+    "url": "https://nikhil-ravi.github.io/ECE5260/schedule/#weekly-schedule",
     "relUrl": "/schedule/#weekly-schedule"
   },"16": {
     "doc": "Schedule",
     "title": "Monday",
     "content": ". | Lecture 2:45 PM–4:00 PM Bloomberg Center 91 | Office Hours 4:00 PM–5:00 PM Bloomberg Center 265 | . | ",
-    "url": "http://localhost:4000/ECE5260/schedule/",
+    "url": "https://nikhil-ravi.github.io/ECE5260/schedule/",
     "relUrl": "/schedule/"
   },"17": {
     "doc": "Schedule",
     "title": "Tuesday",
     "content": "| ",
-    "url": "http://localhost:4000/ECE5260/schedule/",
+    "url": "https://nikhil-ravi.github.io/ECE5260/schedule/",
     "relUrl": "/schedule/"
   },"18": {
     "doc": "Schedule",
     "title": "Wednesday",
     "content": ". | Lecture 2:45 PM–4:00 PM Bloomberg Center 91 | Office Hours 4:00 PM–5:00 PM Bloomberg Center 265 | . | ",
-    "url": "http://localhost:4000/ECE5260/schedule/",
+    "url": "https://nikhil-ravi.github.io/ECE5260/schedule/",
     "relUrl": "/schedule/"
   },"19": {
     "doc": "Schedule",
     "title": "Thursday",
     "content": "| ",
-    "url": "http://localhost:4000/ECE5260/schedule/",
+    "url": "https://nikhil-ravi.github.io/ECE5260/schedule/",
     "relUrl": "/schedule/"
   },"20": {
     "doc": "Schedule",
     "title": "Friday",
     "content": "| . ",
-    "url": "http://localhost:4000/ECE5260/schedule/",
+    "url": "https://nikhil-ravi.github.io/ECE5260/schedule/",
     "relUrl": "/schedule/"
   },"21": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
-    "url": "http://localhost:4000/ECE5260/schedule/",
+    "url": "https://nikhil-ravi.github.io/ECE5260/schedule/",
     "relUrl": "/schedule/"
   },"22": {
     "doc": "Staff",
     "title": "Staff",
     "content": " ",
-    "url": "http://localhost:4000/ECE5260/staff/",
+    "url": "https://nikhil-ravi.github.io/ECE5260/staff/",
     "relUrl": "/staff/"
   },"23": {
     "doc": "Staff",
     "title": "Instructors",
     "content": "Anna Scaglione . as337@cornell.edu . Schedule an appointment . ",
-    "url": "http://localhost:4000/ECE5260/staff/#instructors",
+    "url": "https://nikhil-ravi.github.io/ECE5260/staff/#instructors",
     "relUrl": "/staff/#instructors"
   },"24": {
     "doc": "Topics",
     "title": "Topics",
     "content": ". | Introduction to the course | Basic concepts in graph theory | Review of Markov chains and conditional independence | Network models . | Random graphs | Statistics and attributes | Evolving networks | Multiplex and coupled networks | Resilience of networks | . | Network dynamics and phase transition . | Equilibrium and non-equilibrium systems | The Ising model | Diffusion models and random walks | Synchronization in networks | . | Models . | Epidemic models | Social networks | Biological networks | Critical infrastructures: the Internet, transportation, power systems, pipelines networks | . | Graph Data Processing . | Graphical Models . | Bayesian Networks | Inference for Bayesian Networks’ data | . | Graph Signal Processing . | Model of a graph signal | Graph Fourier Transform | . | Network inference | Application examples | . | . ",
-    "url": "http://localhost:4000/ECE5260/topic/",
+    "url": "https://nikhil-ravi.github.io/ECE5260/topic/",
     "relUrl": "/topic/"
   }
 }
