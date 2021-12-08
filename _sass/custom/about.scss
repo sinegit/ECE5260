@@ -1,0 +1,17 @@
+.about {
+    @extend %card;
+  
+    h1, h2 {
+      @extend .text-gamma;
+    }
+  
+    .about-meta {
+      @extend .text-epsilon;
+    }
+
+    .img-flt {
+        float: none;
+        width: 200px;
+    }
+  }
+  
