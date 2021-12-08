@@ -1,6 +1,6 @@
 # ECE5260: Graph-Based Data Science for Networked Systems
 
-This is repository for [ECE5260 (Spring 22)](http://sinegit.github.io/ECE5260). 
+This is the repository for [ECE5260 (Spring 22)](http://sinegit.github.io/ECE5260). 
 ## Workflow
 
 ### Maintaining the `master` branch
@@ -18,6 +18,7 @@ bundle install
 bundle exec jekyll build
 ```
 This will create the destination directory `_site/` and build the site into it.
+
 4. Add file contents to the index
 ```bash
 git add -A
